@@ -1,13 +1,15 @@
 # BASIC-XS
-this is heavily inspired by Apple Basic.
-this is basicly Basic, the coding languige, ust extra small (XS)
-how to use:
-there are some commands like prnt, list, and more.
-prnt: print something
-list: list every line of code
-exec: execute a single line of code
-run: run all lines of code
-example:
+
+Heavily inspired by Apple Basic.
+Basicly Basic, the coding languige, but extra small (XS)
+
+How to use:
+  There are some commands like prnt, list, and more.
+  prnt: print something
+  list: list every line of code
+  exec: execute a single line of code
+  run: run all lines of code
+Example:
 
 >>0 prnt 'hello'  #line 0: print hello
 >>1 prnt 'there'  #line 1: print there
@@ -20,4 +22,4 @@ hello
 0 prnt 'hello
 1 prnt 'there'
 
-note that '#' dont work here.
+Note that '#' doesn't work here.
