@@ -1,11 +1,13 @@
 # BASIC-XS
 
 Heavily inspired by Apple Basic.
-Basicly Basic, the coding languige, but extra small (XS)
+BASIC-XS is basicly Basic, the coding languige, but extra small (XS)
 
 How to use:
   There are some commands like prnt, list, and more.
-  prnt: print something
+  print: print something
+  input: return a user input
+  rand: return a random number
   list: list every line of code
   exec: execute a single line of code
   run: run all lines of code
