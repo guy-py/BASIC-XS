@@ -24,22 +24,22 @@ BASIC-XS is basicly Basic, the coding languige, but extra small (XS)
 ## Example:
 
 
-0 prnt 'hello'  #line 0: print hello
+/>/> 0 prnt 'hello'  #line 0: print hello
 
-1 prnt 'there'  #line 1: print there
+/>/> 1 prnt 'there'  #line 1: print there
 
-run  #run all of the lines
+/>/> run  #run all of the lines
 
-hello
+/>/> hello
 
-there
+/>/> there
 
-exec 0 #run line 0 only
+/>/> exec 0 #run line 0 only
 
-hello
+/>/> hello
 
-list  #list all of the lines
+/>/> list  #list all of the lines
 
-0 prnt 'hello
+/>/> 0 prnt 'hello
 
-1 prnt 'there'
+/>/> 1 prnt 'there'
