@@ -23,7 +23,6 @@ BASIC-XS is basicly Basic, the coding languige, but extra small (XS)
 
 ## Example:
 
-
 \>\> 0 prnt 'hello'  #line 0: print hello
 
 \>\> 1 prnt 'there'  #line 1: print there
