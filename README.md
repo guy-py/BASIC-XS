@@ -25,12 +25,21 @@ BASIC-XS is basicly Basic, the coding languige, but extra small (XS)
 
 
 \>\> 0 prnt 'hello'  #line 0: print hello
+
 \>\> 1 prnt 'there'  #line 1: print there
+
 \>\> run  #run all of the lines
+
 \>\> hello
+
 \>\> there
+
 \>\> exec 0 #run line 0 only
+
 \>\> hello
+
 \>\> list  #list all of the lines
+
 \>\> 0 prnt 'hello
+
 \>\> 1 prnt 'there'
