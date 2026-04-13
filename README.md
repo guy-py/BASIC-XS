@@ -3,25 +3,28 @@
 Heavily inspired by Apple Basic.
 BASIC-XS is basicly Basic, the coding languige, but extra small (XS)
 
-How to use:
+## How to use:
+
 
   There are some commands like prnt, list, and more.
 
-  print: print something
+  **print**: print something
 
-  input: return a user input
+  **input**: return a user input
 
-  rand: return a random number
+  **rand**: return a random number
 
-  list: list every line of code
+  **list**: list every line of code
 
-  exec: execute a single line of code
+  **exec**: execute a single line of code
 
-  run: run all lines of code
+  **run**: run all lines of code
 
-  #: comment
+  **#**: comment
 
-Example:
+
+## Example:
+
 
 
 0 prnt 'hello'  #line 0: print hello
